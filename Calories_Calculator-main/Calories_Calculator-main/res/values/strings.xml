@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calories Calculator</string>
+    <string name="title">Calculez vos calories en même pas une minute !! </string>
+    <string name="Sexe">Sélectionnez votre Sexe</string>
+    <string name="Age">Saisir votre âge</string>
+    <string name="Poids">Saisir votre poids en kg</string>
+    <string name="Taille">Saisir votre taille en mètres</string>
+    <string name="besoin">Votre besoin quotidien de calories est: </string>
+    <string name="voulez_vous">Voulez vous</string>
+    <string name="ou">OU</string>
+    <string name="masser">PRENDRE DU POIDS</string>
+    <string name="bruler">PERDRE DU POIDS</string>
+    <string name="calories_calc">Mes calories</string>
+    <string name="proteines">Votre besoin quotidien de protéines par (g) est: </string>
+    <string name="proBesoins">Proteines</string>
+
+</resources>
